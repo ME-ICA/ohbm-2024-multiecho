@@ -14,11 +14,11 @@ This is a place to centralize multi-echo related content at OHBM 2024. If you se
 
 Poster WedThur 1336
 
-### Posters with a focus on multi-echo fMRI
+## Posters with a focus on multi-echo fMRI
 ### MonTue posters
 - 1286: High field multi-echo fMRI in infants
 
-## WedThur posters
+### WedThur posters
 - 1355: Activation analysis of T2* time-series from multi-echo fMRI data
 - 1698: Hydra Nordic: A thermal-noise removal strategy for multi-echo fMRI
 - 1877: Accelerating multi-echo brain MRI at 7T using variable-density sampling & patch-based regularization
@@ -28,8 +28,8 @@ Poster WedThur 1336
 - 2325: Enhancing White Matter fMRI Reliability through BOLD-like Signals Using Multi-Echo Techniques
 - 2500: Improved performance of within- and between-individual pain prediction using multi-echo fMRI
 
-### Posters using multi-echo fMRI
-## MonTue posters
+## Posters using multi-echo fMRI
+### MonTue posters
 - 117: A comprehensive approach for TMS targeting identifies better targets than typical approaches
 - 127: TMS direct effects of orbitofrontal cortex stimulation: An interleaved TMS-fMRI study
 - 301: Essential Tremor: The Relationship Between Hand Dominance and Tremor Severity by MVPA
@@ -39,7 +39,7 @@ Poster WedThur 1336
 - 1016: Mapping higher-order language regions in the cerebellum with precision functional MRI
 - 1318: Estimation of iron levels via T2* mapping increases with age in the fetal brain
 
-## WedThur posters
+### WedThur posters
 - 1324: An Electrophysiology-Silent fMRI Study to Inform the Neurofunctional Basis of Startle Habituation
 - 1361: Effects of phase-encoding on BOLD data with a positive control task
 - 1568: Functional brain modularity as a metric of cognitive function in neuroPASC
@@ -59,7 +59,7 @@ Poster WedThur 1336
 - 2410: Longitudinal iron in caudate related to control network connectivity and planning in older adults
 - 2453: Adults born via C-section have visual attention deficits and aberrant brain network connectivity
 
-### Presentations
+## Presentations
 Longitudinal iron in caudate related to control network connectivity and planning in older adults
 Multimodal precision neuroimaging of the individual human brain at ultra-high field
 
