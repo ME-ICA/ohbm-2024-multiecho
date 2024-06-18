@@ -60,8 +60,8 @@ Poster WedThur 1336
 - 2453: Adults born via C-section have visual attention deficits and aberrant brain network connectivity
 
 ## Presentations
-Longitudinal iron in caudate related to control network connectivity and planning in older adults
-Multimodal precision neuroimaging of the individual human brain at ultra-high field
+- Longitudinal iron in caudate related to control network connectivity and planning in older adults
+- Multimodal precision neuroimaging of the individual human brain at ultra-high field
 
 Both in Neuroscience Frontiers: Exploring Cognitive Dynamics and Brain Connectivity
 Monday, June 24, 2024: 5:45 PM - 7:00 PM
