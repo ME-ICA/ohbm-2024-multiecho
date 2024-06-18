@@ -5,6 +5,11 @@ This contains materials related to tedana and multi-echo fMRI presented at the O
 This is a place to centralize multi-echo related content at OHBM 2024. If you see or have a poster or presentation using multi-echo fMRI, submit a pull request or [comment on issue #1](https://github.com/ME-ICA/ohbm-2024-multiecho/issues/1) to have it added.
 
 ## Multi-echo presentations
+- Longitudinal iron in caudate related to control network connectivity and planning in older adults
+- Multimodal precision neuroimaging of the individual human brain at ultra-high field
+
+Both in Neuroscience Frontiers: Exploring Cognitive Dynamics and Brain Connectivity
+Monday, June 24, 2024: 5:45 PM - 7:00 PM
 
 ## Multi-echo posters
 
@@ -58,10 +63,3 @@ Poster WedThur 1336
 - 2408: Individualised mapping of the language system using ultra high-field fMRI
 - 2410: Longitudinal iron in caudate related to control network connectivity and planning in older adults
 - 2453: Adults born via C-section have visual attention deficits and aberrant brain network connectivity
-
-## Presentations
-- Longitudinal iron in caudate related to control network connectivity and planning in older adults
-- Multimodal precision neuroimaging of the individual human brain at ultra-high field
-
-Both in Neuroscience Frontiers: Exploring Cognitive Dynamics and Brain Connectivity
-Monday, June 24, 2024: 5:45 PM - 7:00 PM
