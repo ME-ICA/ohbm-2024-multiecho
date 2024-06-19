@@ -9,11 +9,13 @@ This is a place to centralize multi-echo related content at OHBM 2024. If you se
 At OHBM 2023, a group of multi-echo fMRI users had an informal gathering at a bar. We will attempt to do this again, but have not yet picked a time or location. If you want to join us, please reach out to [@handwerkerd](https://github.com/handwerkerd) or other [tedana contributors](https://github.com/ME-ICA/tedana/?tab=readme-ov-file#contributors) at OHBM.
 
 ## Multi-echo presentations
-- Longitudinal iron in caudate related to control network connectivity and planning in older adults
-- Multimodal precision neuroimaging of the individual human brain at ultra-high field
 
-Both in Neuroscience Frontiers: Exploring Cognitive Dynamics and Brain Connectivity
-Monday, June 24, 2024: 5:45 PM - 7:00 PM
+- Multimodal precision neuroimaging of the individual human brain at ultra-high field; Donna Gift Cabalo
+  - 3rd presentation in [Brain Anatomy Unveiled: Cutting-Edge Insights from Multimodal Imaging](https://ww6.aievolution.com/hbm2401/index.cfm?do=ev.viewEv&ev=1013)
+  - Monday, June 24, 2024: 5:45 PM - 7:00 PM; ASEM Ballroom 202
+- Longitudinal iron in caudate related to control network connectivity and planning in older adults. Presenter: Jing Zhou
+  - 6th presentation in [Neuroscience Frontiers: Exploring Cognitive Dynamics and Brain Connectivity](https://ww6.aievolution.com/hbm2401/index.cfm?do=ev.viewEvent&style=1&eventID=1005)
+  - Monday, June 24, 2024: 5:45 PM - 7:00 PM; Hall D2
 
 ## Multi-echo posters
 
@@ -28,10 +30,14 @@ Poster WedThur 1336
 [Poster](./tedana_poster_OHBM2024.pdf)
 
 ## Posters with a focus on multi-echo fMRI
+
 ### MonTue posters
+
+- [56](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=2528) Improving Coil Setup and Data Processing Strategies for Concurrent MRI and Brain-Stimulation Studies
 - [1286](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=1778): High field multi-echo fMRI in infants
 
 ### WedThur posters
+
 - [1355](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=3509): Activation analysis of T2* time-series from multi-echo fMRI data
 - [1698](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=4350): Hydra Nordic: A thermal-noise removal strategy for multi-echo fMRI
 - [1877](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=2230): Accelerating multi-echo brain MRI at 7T using variable-density sampling & patch-based regularization
@@ -43,9 +49,12 @@ Poster WedThur 1336
 - [2500](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=1249): Improved performance of within- and between-individual pain prediction using multi-echo fMRI
 
 ## Posters using multi-echo fMRI
+
 ### MonTue posters
+
 - [117](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=2651): A comprehensive approach for TMS targeting identifies better targets than typical approaches
 - [127](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=3921): TMS direct effects of orbitofrontal cortex stimulation: An interleaved TMS-fMRI study
+- [184](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=2078) ASL blood-brain barrier permeability is associated with amyloid and cognitive impairment 
 - [301](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=3964): Essential Tremor: The Relationship Between Hand Dominance and Tremor Severity by MVPA
 - [441](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=4064): Brain dynamics in toddlers with and without autism spectrum disorder
 - [466](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=1292): Connectivity changes after ketamine in treatment resistant depression and receptor expression
@@ -55,9 +64,12 @@ Poster WedThur 1336
 - [1318](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=4022): Estimation of iron levels via T2* mapping increases with age in the fetal brain
 
 ### WedThur posters
+
 - [1324](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=1096): An Electrophysiology-Silent fMRI Study to Inform the Neurofunctional Basis of Startle Habituation
+- [1326](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=1360) Assessing motion-associated tSNR of brainstem and spinal cord fMRI in a post-stroke cohort
 - [1336](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=2323): Tedana: multi-echo fMRI noise removal software and resources
 - [1361](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=4116): Effects of phase-encoding on BOLD data with a positive control task
+- [1566](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=3749) Reveal Global Interconnected Functional Tree in the Human Brain
 - [1568](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=3837): Functional brain modularity as a metric of cognitive function in neuroPASC
 - [1572](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=3932): How much is enough? Optimizing data collection for pediatric functional connectivity research
 - [1687](https://ww6.aievolution.com/hbm2401/index.cfm?do=abs.viewAbstract&style=1&abstractID=2670): Evaluation of Respiratory and Cardiac Peak Detection Using Interactive AFNI Tools
