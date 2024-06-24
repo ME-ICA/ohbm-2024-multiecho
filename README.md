@@ -6,7 +6,7 @@ This is a place to centralize multi-echo related content at OHBM 2024. If you se
 
 ## Multi-echo fMRI users' gathering
 
-At OHBM 2023, a group of multi-echo fMRI users had an informal gathering at a bar. We will attempt to do this again, but have not yet picked a time or location. If you want to join us, please reach out to [@handwerkerd](https://github.com/handwerkerd) or other [tedana contributors](https://github.com/ME-ICA/tedana/?tab=readme-ov-file#contributors) at OHBM.
+At OHBM 2023, a group of multi-echo fMRI users had an informal gathering at a bar. We will do this again at 6:15PM on Wednesday, June 28th. We have not yet picked a location, but will add the location here when it's selected. If you want to join us, please reach out to [@handwerkerd](https://github.com/handwerkerd) or other [tedana contributors](https://github.com/ME-ICA/tedana/?tab=readme-ov-file#contributors) at OHBM.
 
 ## Multi-echo presentations
 
